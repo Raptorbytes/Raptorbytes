@@ -1,1 +1,1 @@
-Yo chat this is the epic company repo of Arco Nightshade and Raptorbytes LLC. Have no joy.
+Raptorbytes is a lean tech company focused on clean, efficient programming solutions. We build fast, reliable software with precision and simplicity at the core. From backend systems to custom tools, we code with purpose — nothing more, nothing less.
